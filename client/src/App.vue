@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-main>
-      <HelloWorld />
+      <PhotoEditor />
     </v-main>
   </v-app>
 </template>
